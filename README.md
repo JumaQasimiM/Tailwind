@@ -1,3 +1,4 @@
-# Das ist nur eine Prktische Projekt 
-> In diese Projekt verwinde ich Tailwind CSS
-> und entwikle eine schöne webseit
+# Praktisches Projekt
+
+In diesem Projekt verwende ich **Tailwind CSS**  
+und entwickle eine schöne Webseite.
